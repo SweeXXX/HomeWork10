@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\bin\Debug\net6.0\ClassWork.exe
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\bin\Debug\net6.0\ClassWork.deps.json
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\bin\Debug\net6.0\ClassWork.runtimeconfig.json
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\bin\Debug\net6.0\ClassWork.dll
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\bin\Debug\net6.0\ClassWork.pdb
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\obj\Debug\net6.0\ClassWork.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\obj\Debug\net6.0\ClassWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\obj\Debug\net6.0\ClassWork.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\obj\Debug\net6.0\ClassWork.AssemblyInfo.cs
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\obj\Debug\net6.0\ClassWork.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\obj\Debug\net6.0\ClassWork.dll
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\obj\Debug\net6.0\refint\ClassWork.dll
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\obj\Debug\net6.0\ClassWork.pdb
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\obj\Debug\net6.0\ClassWork.genruntimeconfig.cache
+C:\Users\Никита\Desktop\fakk\HomeWork10\ClassWork\obj\Debug\net6.0\ref\ClassWork.dll
