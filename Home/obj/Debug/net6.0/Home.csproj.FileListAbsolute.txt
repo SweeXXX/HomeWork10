@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\fakk\HomeWork10\Home\bin\Debug\net6.0\Home.exe
+C:\Users\Никита\Desktop\fakk\HomeWork10\Home\bin\Debug\net6.0\Home.deps.json
+C:\Users\Никита\Desktop\fakk\HomeWork10\Home\bin\Debug\net6.0\Home.runtimeconfig.json
+C:\Users\Никита\Desktop\fakk\HomeWork10\Home\bin\Debug\net6.0\Home.dll
+C:\Users\Никита\Desktop\fakk\HomeWork10\Home\bin\Debug\net6.0\Home.pdb
+C:\Users\Никита\Desktop\fakk\HomeWork10\Home\obj\Debug\net6.0\Home.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\fakk\HomeWork10\Home\obj\Debug\net6.0\Home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\fakk\HomeWork10\Home\obj\Debug\net6.0\Home.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\fakk\HomeWork10\Home\obj\Debug\net6.0\Home.AssemblyInfo.cs
+C:\Users\Никита\Desktop\fakk\HomeWork10\Home\obj\Debug\net6.0\Home.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\fakk\HomeWork10\Home\obj\Debug\net6.0\Home.dll
+C:\Users\Никита\Desktop\fakk\HomeWork10\Home\obj\Debug\net6.0\refint\Home.dll
+C:\Users\Никита\Desktop\fakk\HomeWork10\Home\obj\Debug\net6.0\Home.pdb
+C:\Users\Никита\Desktop\fakk\HomeWork10\Home\obj\Debug\net6.0\Home.genruntimeconfig.cache
+C:\Users\Никита\Desktop\fakk\HomeWork10\Home\obj\Debug\net6.0\ref\Home.dll
